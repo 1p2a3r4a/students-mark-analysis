@@ -35,8 +35,5 @@ Contains:
 ## ▶️ How to Run
 pip install pandas matplotlib  
 python studentsanalysis.py
-##  Author
-parameshwari
-
 ## 🙋 Author
-Your Name
+parameshwari
